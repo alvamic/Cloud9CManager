@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "s8PC3KU8wn4VxiywTfVwk7D3mAWzE0bVQt7/N7dD1Vg=",
+  "Hash": "zshZbj2owclhClLMyz1uyo1U/NL+rM3xysVfOvIcmbE=",
   "Source": "C9_CostManager",
   "BasePath": "_content/C9_CostManager",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "\\\\Mac\\Home\\Desktop\\VS22_Apps\\C9_CostManger\\C9_CostManager\\wwwroot\\images\\polygon-scatter-haikei.svg",
+      "SourceId": "C9_CostManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "\\\\Mac\\Home\\Desktop\\VS22_Apps\\C9_CostManger\\C9_CostManager\\wwwroot\\",
+      "BasePath": "_content/C9_CostManager",
+      "RelativePath": "images/polygon-scatter-haikei.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\polygon-scatter-haikei.svg"
     },
     {
       "Identity": "\\\\Mac\\Home\\Desktop\\VS22_Apps\\C9_CostManger\\C9_CostManager\\wwwroot\\js\\site.js",
