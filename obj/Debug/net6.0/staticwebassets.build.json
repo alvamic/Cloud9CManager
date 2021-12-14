@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zshZbj2owclhClLMyz1uyo1U/NL+rM3xysVfOvIcmbE=",
+  "Hash": "653dA6GTBUnSlnC+Awto+z898ZnBj7Bd/ve9zj846Fw=",
   "Source": "C9_CostManager",
   "BasePath": "_content/C9_CostManager",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "\\\\Mac\\Home\\Desktop\\VS22_Apps\\C9_CostManger\\C9_CostManager\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\C9_CostManager.bundle.scp.css"
+    },
+    {
+      "Identity": "\\\\Mac\\Home\\Desktop\\VS22_Apps\\C9_CostManger\\C9_CostManager\\wwwroot\\.DS_Store",
+      "SourceId": "C9_CostManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "\\\\Mac\\Home\\Desktop\\VS22_Apps\\C9_CostManger\\C9_CostManager\\wwwroot\\",
+      "BasePath": "_content/C9_CostManager",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.DS_Store"
     },
     {
       "Identity": "\\\\Mac\\Home\\Desktop\\VS22_Apps\\C9_CostManger\\C9_CostManager\\wwwroot\\css\\site.css",

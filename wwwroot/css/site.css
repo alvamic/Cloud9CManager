@@ -21,3 +21,12 @@ body {
     background-image: url("../images/polygon-scatter-haikei.svg");
     background-repeat: repeat-x;
 }
+
+.redLetter {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbarDropdown {
+    color: white !important;
+}
