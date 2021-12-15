@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "653dA6GTBUnSlnC+Awto+z898ZnBj7Bd/ve9zj846Fw=",
+  "Hash": "m0E7bfXfiJsiuVldbnQmHvvAShW5TwQ3jymIB9WKfDE=",
   "Source": "C9_CostManager",
   "BasePath": "_content/C9_CostManager",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "\\\\Mac\\Home\\Desktop\\VS22_Apps\\C9_CostManger\\C9_CostManager\\wwwroot\\images\\blackMetalBack.jpeg",
+      "SourceId": "C9_CostManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "\\\\Mac\\Home\\Desktop\\VS22_Apps\\C9_CostManger\\C9_CostManager\\wwwroot\\",
+      "BasePath": "_content/C9_CostManager",
+      "RelativePath": "images/blackMetalBack.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\blackMetalBack.jpeg"
     },
     {
       "Identity": "\\\\Mac\\Home\\Desktop\\VS22_Apps\\C9_CostManger\\C9_CostManager\\wwwroot\\images\\polygon-scatter-haikei.svg",

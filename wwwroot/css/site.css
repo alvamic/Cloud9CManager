@@ -15,6 +15,7 @@ html {
 
 body {
     margin-bottom: 60px;
+    background:white;
 }
 
 .backgroundimg {
@@ -29,4 +30,12 @@ body {
 
 #navbarDropdown {
     color: white !important;
+}
+
+.formBackground {
+    color:black;
+}
+
+.addMember {
+    margin-top:1rem;
 }
